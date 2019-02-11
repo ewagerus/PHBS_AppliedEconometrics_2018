@@ -8,4 +8,4 @@ This is a project prepared for the needs of [Applied Econometrics](http://englis
 
 **CASE**:
 
-Description of a case can be found [HERE](https://github.com/ewagerus/PHBS_AppliedEconometrics_2018/blob/master/Case2_Orangia.pdf)
+Description of a case can be found [HERE](https://github.com/ewagerus/PHBS_AppliedEconometrics_2018/blob/master/Case2_Orangia.pdf).
